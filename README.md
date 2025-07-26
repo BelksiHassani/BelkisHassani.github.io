@@ -1,6 +1,6 @@
 # Belkis Hassani
 Welcome to my personal portfolio
-I’m an AI researcher, Inventor with a patent pending, and app developer, passionate about using technology to solve real-world challenges. 
+I’m an AI Engineer, Inventor with a patent pending, and app developer, passionate about using technology to solve real-world challenges. 
 ## About Me
 -  Master's degree in Artificial Intelligence 
 -  Patent-pending inventor with experience turning ideas into practical solutions  
